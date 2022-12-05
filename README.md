@@ -1,8 +1,8 @@
 # Transformers-Project
-## Overview
+### Overview
 
-## Link to Hugging Spaces - Interactive Sites
+### Link to Hugging Spaces - Interactive Sites
 
-## Critical Analysis
+### Critical Analysis
 
-## Resource Links
+### Resource Links
