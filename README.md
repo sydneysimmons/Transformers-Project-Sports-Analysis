@@ -12,7 +12,7 @@
 
 **Potential Use Cases:** Our models could be used for the average sport enthusiast up to a sports commentator that needs a quick summary or information that happened in a sporting event. It could even be used for someone who does not like sports and needs a quick talking point for a game they didnt watch! Instead of reading an entire article or researching statistics about a game in depth, a user can link an article or a table to our Transformer tools and quickly see what happened in a game. 
 
-### Link to Hugging Spaces - Interactive Sites
+### [Link to Hugging Spaces - Interactive Sites](https://huggingface.co/spaces/camerondeau/Sports_Transformers_Analysis)
 
 ### Critical Analysis
 **Next Steps:**
