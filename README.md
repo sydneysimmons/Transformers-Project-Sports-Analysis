@@ -23,5 +23,9 @@
 While we did not use SportsBERT because it was not applicable to our pipeline tasks, it was helpful to see a trained model on sports data.
 https://huggingface.co/microsoft/SportsBERT
 
-In depth article on other machine learning research occurring in sports performance and recruitment.
+In depth article on other machine learning research occurring in sports: 
+Performance & Recruitment
 https://www.frontiersin.org/articles/10.3389/fspor.2021.682287/full
+
+Athlete Injuries
+https://sportsmedicine-open.springeropen.com/articles/10.1186/s40798-022-00465-4
