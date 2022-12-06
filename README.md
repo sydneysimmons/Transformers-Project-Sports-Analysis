@@ -29,3 +29,10 @@ https://www.frontiersin.org/articles/10.3389/fspor.2021.682287/full
 
 Athlete Injuries<br />
 https://sportsmedicine-open.springeropen.com/articles/10.1186/s40798-022-00465-4
+
+Pipeline & Model Documentation Used For Project<br />
+Models sorted by specific tasks<br />
+https://huggingface.co/models?sort=downloads 
+
+https://huggingface.co/docs/transformers/main_classes/pipelines
+
