@@ -38,5 +38,6 @@ Pipeline & Model Documentation Used For Project<br />
 Models sorted by specific tasks<br />
 https://huggingface.co/models?sort=downloads 
 
+Descriptions of pipelines that we used<br />
 https://huggingface.co/docs/transformers/main_classes/pipelines
 
