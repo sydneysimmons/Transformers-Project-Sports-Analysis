@@ -24,8 +24,10 @@ With summarization and question answering, we ran into limitations on the number
 We also realized that using multiple pipelines on similar data can overcome limitations by allowing us to get different outputs on the same event and understand what is working and what is not.
 
 ### Result Screenshots 
+**US World Cup Game**
 <img width="1545" alt="Screen Shot 2022-12-06 at 5 54 38 PM" src="https://user-images.githubusercontent.com/89158606/206051222-7da3b2c8-5728-45db-976c-512c4f816db3.png">
 
+**2022 Superbowl**
 <img width="1548" alt="Screen Shot 2022-12-06 at 5 56 14 PM" src="https://user-images.githubusercontent.com/89158606/206051392-cd8469a1-d8b5-424b-a3ea-1112f0eb051b.png">
 
 ### Resource Links
