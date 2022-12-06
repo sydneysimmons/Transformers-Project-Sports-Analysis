@@ -1,6 +1,6 @@
 # Transformers-Project
 ### Overview
-**Context:** For people interested in sports, there are many sport seasons and games happening at one time. We wanted to use Transformers to build models that would help people aggregate information quickly for any sport event.
+**Context:** For people interested in sports, there are many sporting events and seasons happening at one time. We wanted to use Transformers to build models that would help people aggregate information quickly for any sport event.
 
 **Approach:** We wanted to use Transformers to not only give users a summary of a sporting event that they are interested in, but also allow them to ask questions about an event and get quick statistics. Therefore, we researched the Transformer pipelines to see which would be applicable to our idea and applied 3 of the them: 
 1. Summarization Pipeline
