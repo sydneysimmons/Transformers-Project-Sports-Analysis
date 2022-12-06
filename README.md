@@ -18,7 +18,7 @@
 With more time, we would love to test our model on many sporting events and see how it performs across sports and different types of articles. We could put together a more extensive dataset with articles and tables from many different events. We could also develop summaries and answers to questions that we could use to derive metrics for how accurate our model is (ex. ROUGE for summarization). While we have a good idea of what summary is better from reading articles and we know answers to the questions we are asking, a future goal would be to formalize the metrics for our model's performance. 
 
 **Limitation/Revelations from the Project:**
-With summarization and question answering, we ran into limitation on the number of inputs into the model. We could not use the entire news article and this particularly impacted question answering because not all of the stats or the answers to the questions that we wanted were in the first few paragraphs of the article. This limitation us to ultimately using table question answering pipeline instead of using news articles. 
+With summarization and question answering, we ran into limitations on the number of inputs into the model. We could not use the entire news article and this particularly impacted question answering because not all of the stats or the answers to the questions that we wanted were in the first few paragraphs of the article. This limitation us to ultimately using table question answering pipeline instead of using news articles. 
 
 We also realized that using multiple pipelines on similar data can overcome limitations by allowing us to get different outputs on the same event and understand what is working and what is not.
 
