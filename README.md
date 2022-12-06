@@ -1,4 +1,5 @@
-# Transformers-Project
+# Sports Analysis Transformer Project
+### Sydney Simmons, Cameron Rondeau, Donald Kane
 ### Overview
 **Context:** For people interested in sports, there are many sporting events and seasons happening at one time. We wanted to use Transformers to build models that would help people aggregate information quickly for any sport event.
 
