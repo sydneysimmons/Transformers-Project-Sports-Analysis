@@ -5,8 +5,8 @@
 
 **Approach:** We wanted to use Transformers to not only give users a summary of a sporting event that they are interested in, but also allow them to ask questions about an event and get quick statistics. Therefore, we researched the Transformer pipelines to see which would be applicable to our idea and applied 3 of the them: 
 1. Summarization Pipeline
-2. Question Answering
-3. Table Question Answering
+2. Question Answering Pipeline
+3. Table Question Answering Pipeline
 
 **Testing:** We tested our models to start on data and articles from the 2022 Superbowl. Initially, we thought that summarization and questions answering would be an effective model to derive a summarization and key statistics for a sporting event. However, we realized that table question answering was far more accurate than question answering from a news article. We tested questions between question answering and table question answer for the same sporting event and while we left both pipelines in our interactive space, we would focus on table question answering and summarization going forward. 
 
