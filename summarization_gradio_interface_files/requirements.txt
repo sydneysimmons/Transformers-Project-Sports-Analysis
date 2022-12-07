@@ -1,4 +1,0 @@
-gradio
-transformers
-newspaper3k
-torch
