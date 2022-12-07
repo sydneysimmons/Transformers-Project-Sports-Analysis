@@ -12,6 +12,35 @@
 
 **Potential Use Cases:** Our models could be used for the average sport enthusiast up to a sports commentator that needs a quick summary or information that happened in a sporting event. It could even be used for someone who does not like sports and needs a quick talking point for a game they didnt watch! Instead of reading an entire article or researching statistics about a game in depth, a user can link an article or a table to our Transformer tools and quickly see what happened in a game. 
 
+### Question Answering
+#### Comparing the same questions across multiple articles.
+
+| Question                                   | Correct Answer             | Article 1                                 | Article 2        | Article 3           |
+|--------------------------------------------|----------------------------|-------------------------------------------|------------------|---------------------|
+| Where was the 2022 Super Bowl?             | Los Angeles / SoFi Stadium | Los Angeles                               | SoFi Stadium     | SoFi Stadium        |
+| What team won the 2022 Super Bowl?         | Los Angeles Rams           | Rams                                      | Los Angeles Rams | The Rams            |
+| What was the score of the 2022 Super Bowl? | 23-20                      | 23-20                                     | 38               | 23-20               |
+| Who scored the first touchdown?            | Odell Beckham Jr.          | Ernest Jones                              | Ja'Marr Chase    | Odell Beckham Jr.   |
+| How many yards did Cooper Kupp have?       | 92                         | 39                                        | 92               | 92                  |
+| How many passes did Burrow complete?       | 22 of 33                   | seven                                     | 46               | 22 of 33            |
+| How many yards did Burrow have?            | Cooper Kupp                | Kupp                                      | Cooper Kupp      | Donald              |
+| Why did the Rams win?                      |                            | Their defense laying siege to the Bengals | their families   | That defensive line |
+
+
+#### Comparing different wording of questions for one article.
+
+| Question                                | Answer           |
+|-----------------------------------------|------------------|
+| What team won?                          | Los Angeles Rams |
+| What team won the Super Bowl?           | Tennessee Titans |
+| What team won the 2022 Super Bowl?      | The Rams         |
+| What team lost?                         | Los Angeles Rams |
+| What team lost the 2022 Super Bowl?     | Bengals          |
+| How many completions did Stafford have? | two decades      |
+| How many passes did Stafford complete?  | 26 of 40         |
+
+
+
 ### [Link to Hugging Spaces - Interactive Sites](https://huggingface.co/spaces/camerondeau/Sports_Transformers_Analysis)
 
 ### Critical Analysis
