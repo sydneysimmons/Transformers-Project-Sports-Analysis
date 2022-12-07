@@ -42,7 +42,7 @@
 | How many passes did Stafford complete?  | 26 of 40         |
 
 ### TaPaS
-
+First proposed in *TaPas: Weakly Supervised Table Parsing via Pre-training (Herzig et al., ACL 2020)*
 
 ### Critical Analysis
 **Next Steps:**
