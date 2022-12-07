@@ -45,13 +45,14 @@
 
 #### Table Question Answering Pipeline
 ##### TaPaS
-![GitHub Logo](/TableQuestionAnswering/tapas.png)
 
 First proposed in *TaPas: Weakly Supervised Table Parsing via Pre-training (Herzig et al., ACL 2020)*, TaPas is a BERT-based model specifically designed for answering questions about tabular data. Compared to BERT, TAPAS uses relative position embeddings and has 7 token types that encode tabular structure. TaPaS was pretrained on the raw tables and associated texts only, with no humans labelling them in any way (which is why it can use lots of publicly available data) with an automatic process to generate inputs and labels from those texts. More precisely, it was pretrained with two objectives:
 1. Masked language modeling (MLM): taking a (flattened) table and associated context, the model randomly masks 15% of the words in the input, then runs the entire (partially masked) sequence through the model. The model then has to predict the masked words.
 2. Intermediate pre-training: to encourage numerical reasoning on tables, the authors additionally pre-trained the model by creating a balanced dataset of millions of syntactically created training examples. Here, the model must predict (classify) whether a sentence is supported or refuted by the contents of a table. <br />
 
 This way, the model learns an inner representation of the English language used in tables and associated texts, which can then be used to extract features useful for downstream tasks such as answering questions about a table.
+
+![GitHub Logo](/TableQuestionAnswering/tapas.png)
 
 ### Critical Analysis
 **Next Steps:**
