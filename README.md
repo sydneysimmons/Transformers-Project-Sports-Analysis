@@ -42,7 +42,7 @@
 | How many passes did Stafford complete?  | 26 of 40         |
 
 ### TaPaS
-First proposed in *TaPas: Weakly Supervised Table Parsing via Pre-training (Herzig et al., ACL 2020)*
+First proposed in *TaPas: Weakly Supervised Table Parsing via Pre-training (Herzig et al., ACL 2020)*, TaPas is a BERT-based model specifically designed (and pre-trained) for answering questions about tabular data. Compared to BERT, TAPAS uses relative position embeddings and has 7 token types that encode tabular structure. 
 
 ### Critical Analysis
 **Next Steps:**
