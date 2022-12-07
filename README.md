@@ -26,7 +26,7 @@
 | Who scored the first touchdown?            | Odell Beckham Jr.          | Ernest Jones                              | Ja'Marr Chase    | Odell Beckham Jr.   |
 | How many yards did Cooper Kupp have?       | 92                         | 39                                        | 92               | 92                  |
 | How many passes did Burrow complete?       | 22 of 33                   | seven                                     | 46               | 22 of 33            |
-| How many yards did Burrow have?            | Cooper Kupp                | Kupp                                      | Cooper Kupp      | Donald              |
+| Who won the MVP?                           | Cooper Kupp                | Kupp                                      | Cooper Kupp      | Donald              |
 | Why did the Rams win?                      |                            | Their defense laying siege to the Bengals | their families   | That defensive line |
 
 
@@ -39,8 +39,8 @@
 | What team won the 2022 Super Bowl?      | The Rams         |
 | What team lost?                         | Los Angeles Rams |
 | What team lost the 2022 Super Bowl?     | Bengals          |
-| How many completions did Stafford have? | two decades      |
 | How many passes did Stafford complete?  | 26 of 40         |
+| How many completions did Stafford have? | two decades      |
 
 
 #### Table Question Answering Pipeline
