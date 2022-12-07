@@ -41,7 +41,7 @@
 | How many completions did Stafford have? | two decades      |
 | How many passes did Stafford complete?  | 26 of 40         |
 
-### TAPAS
+### TaPaS
 
 
 ### Critical Analysis
@@ -79,5 +79,5 @@ https://huggingface.co/models?sort=downloads
 Descriptions of pipelines that we used<br />
 https://huggingface.co/docs/transformers/main_classes/pipelines
 
-TaPas: Weakly Supervised Table Parsing via Pre-training (Herzig et al., ACL 2020)
+TaPas: Weakly Supervised Table Parsing via Pre-training (Herzig et al., ACL 2020) />
 https://aclanthology.org/2020.acl-main.398.pdf
