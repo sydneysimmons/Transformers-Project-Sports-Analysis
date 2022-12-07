@@ -3,14 +3,14 @@
 ### Overview
 **Context:** For people interested in sports, there are many sporting events and seasons happening at one time. We wanted to use Transformers to build models that would help people aggregate information quickly for any sport event.
 
+**Potential Use Cases:** Our models could be used for the average sport enthusiast up to a sports commentator that needs a quick summary or information that happened in a sporting event. It could even be used for someone who does not like sports and needs a quick talking point for a game they didnt watch! Instead of reading an entire article or researching statistics about a game in depth, a user can link an article or a table to our Transformer tools and quickly see what happened in a game. 
+
 **Approach:** We wanted to use Transformers to not only give users a summary of a sporting event that they are interested in, but also allow them to ask questions about an event and get quick statistics. Therefore, we researched the Transformer pipelines to see which would be applicable to our idea and applied 3 of the them: 
 1. Summarization Pipeline
 2. Question Answering Pipeline
 3. Table Question Answering Pipeline
 
 **Testing:** We tested our models to start on data and articles from the 2022 Superbowl. Initially, we thought that summarization and question answering would be effective pipelines to derive a summarization and answer questions on key statistics for a sporting event. However, we realized that table question answering was far more accurate than question answering from a news article. We tested questions between question answering and table question answering for the same sporting event and while we left both pipelines in our interactive space, we would focus on table question answering and summarization going forward. 
-
-**Potential Use Cases:** Our models could be used for the average sport enthusiast up to a sports commentator that needs a quick summary or information that happened in a sporting event. It could even be used for someone who does not like sports and needs a quick talking point for a game they didnt watch! Instead of reading an entire article or researching statistics about a game in depth, a user can link an article or a table to our Transformer tools and quickly see what happened in a game. 
 
 ### [Link to Hugging Spaces - Interactive Sites](https://huggingface.co/spaces/camerondeau/Sports_Transformers_Analysis)
 
