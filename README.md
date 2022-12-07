@@ -14,8 +14,9 @@
 
 ### [Link to Hugging Spaces - Interactive Sites](https://huggingface.co/spaces/camerondeau/Sports_Transformers_Analysis)
 
-### Question Answering
-#### Comparing the same questions across multiple articles.
+### Additional Information on Pipeline Usage and Outcomes 
+#### Question Answering Pipeline
+##### Comparing the same questions across multiple articles.
 
 | Question                                   | Correct Answer             | Article 1                                 | Article 2        | Article 3           |
 |--------------------------------------------|----------------------------|-------------------------------------------|------------------|---------------------|
@@ -29,7 +30,7 @@
 | Why did the Rams win?                      |                            | Their defense laying siege to the Bengals | their families   | That defensive line |
 
 
-#### Comparing different wording of questions for one article.
+##### Comparing different wording of questions for one article.
 
 | Question                                | Answer           |
 |-----------------------------------------|------------------|
@@ -41,7 +42,9 @@
 | How many completions did Stafford have? | two decades      |
 | How many passes did Stafford complete?  | 26 of 40         |
 
-### TaPaS
+
+#### Table Question Answering Pipeline
+##### TaPaS
 ![GitHub Logo](/TableQuestionAnswering/tapas.png)
 
 First proposed in *TaPas: Weakly Supervised Table Parsing via Pre-training (Herzig et al., ACL 2020)*, TaPas is a BERT-based model specifically designed for answering questions about tabular data. Compared to BERT, TAPAS uses relative position embeddings and has 7 token types that encode tabular structure. TaPaS was pretrained on the raw tables and associated texts only, with no humans labelling them in any way (which is why it can use lots of publicly available data) with an automatic process to generate inputs and labels from those texts. More precisely, it was pretrained with two objectives:
